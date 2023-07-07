@@ -1,8 +1,8 @@
 import React from "react"
-import Buttons from "../components/Buttons"
-import About from "../components/About"
-import Interests from "../components/Interests"
-import Footer from "../components/Footer"
+import Buttons from "./Buttons"
+import About from "./About"
+import Interests from "./Interests"
+import Footer from "./Footer"
 
 export default function Info() {
     return (
