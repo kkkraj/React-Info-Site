@@ -7,6 +7,7 @@
   - [Installation](#installation)
   - [Screenshot](#screenshot)
   - [Built with](#built-with)
+  - [Deployment](#deployment)
 - [Author](#author)
 
 ## Overview
@@ -26,6 +27,11 @@ $ yarn build # npm run build
 - ReactJS
 - HTML
 - CSS
+
+### Deployment
+
+Check out the deployed version [here](https://lively-crepe-a2b6d4.netlify.app/).
+
 
 
 ## Developer
