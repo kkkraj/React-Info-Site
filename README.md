@@ -1,28 +1,33 @@
-# co06147cb954378d5aaad2596
+# Personal Info Site
 
-Quick start:
 
+## Table of Contents
+
+- [Overview](#overview)
+  - [Installation](#installation)
+  - [Screenshot](#screenshot)
+  - [Built with](#built-with)
+- [Author](#author)
+
+## Overview
+A simple site about my personal information created with ReactJS, as part of learning experience with Scrimba.
+
+### Installation
 ```
 $ yarn # npm install
 $ yarn build # npm run build
 ````
 
-## Development
+### Screenshot
+![](./images/screenshot.jpg)
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
+### Built with
 
-```
-$ yarn watch # npm run watch
-```
+- ReactJS
+- HTML
+- CSS
 
-## About Scrimba
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Developer
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+- Blog - [Khanittha Krajangjaem](https://medium.com/@kkkraj)
