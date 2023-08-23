@@ -8,7 +8,7 @@
   - [Screenshot](#screenshot)
   - [Built with](#built-with)
   - [Deployment](#deployment)
-- [Author](#author)
+- [Developer](#developer)
 
 ## Overview
 A simple site about my personal information created with ReactJS, as part of learning experience with Scrimba.
